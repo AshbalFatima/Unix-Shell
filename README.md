@@ -4,7 +4,7 @@
 
 # Features:
 
-# Command Execution: 
+__Command Execution:__
   Supports execution of standard Unix commands and built-in commands such as cd, exit, help, and hello.
 # Built-in Commands: 
   Implements built-in commands for changing directories, displaying help information, and exiting the shell.
