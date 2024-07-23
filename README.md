@@ -6,7 +6,8 @@
 
 __Command Execution:__
   Supports execution of standard Unix commands and built-in commands such as cd, exit, help, and hello.
-# Built-in Commands: 
+__Built-in Commands:__
+
   Implements built-in commands for changing directories, displaying help information, and exiting the shell.
 # Pipe Handling: 
   Supports piping between commands, allowing output from one command to be used as input for another.
