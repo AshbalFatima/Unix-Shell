@@ -1,5 +1,5 @@
 # Custom Linux Shell in C
-# Description:
+**Description:**
   Developed a custom command-line shell in C that emulates basic functionalities of Unix-like shells. This project demonstrates proficiency in C programming, system calls, and shell scripting.
 
 # Features:
